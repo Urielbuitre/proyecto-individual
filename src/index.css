@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prueba1{
+    background-image: url("/src/utils/img\ 1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100cqmax;
+}
+
+.medio{
+    background-image: url("/src/utils/img\ 2.jpg");
+        background-size:contain;
+    background-repeat: no-repeat;
+
+}
+
